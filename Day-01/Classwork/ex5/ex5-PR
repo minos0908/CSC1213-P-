@@ -1,0 +1,14 @@
+Date:12.03.2025
+Practical No:05
+Problem Specification:How to break the line
+Implimentation:
+  class StudentDetails{
+	public static void main (String args[]){
+	System.out.println("First Name: Minos \nLast Name : Rasheed \nAddress :Sammanthurai,Ampara");
+}
+}
+Output:
+       First Name:Minos
+       Last Name:Rasheed
+       Address:Sammanthurai
+Conclusion: We can use "n\" to break the line 
