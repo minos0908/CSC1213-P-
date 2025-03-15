@@ -1,0 +1,50 @@
+Date:12.03.2025
+Practical No:03
+Problem Specification: store the diffrent data types 
+Implementation:
+
+class My3rdjavaprogram{
+	public static void main(String args []){
+		boolean isBool=true;
+		System.out.println ("Boolean :"+isBool);
+		
+		byte ByteVal=120;
+		System.out.println("Byte :"+ByteVal);
+		
+		int IntVal=1;
+		System.out.println("Integer:"+IntVal);
+		
+		short ShortVal=14569;
+		System.out.println("Short :"+ShortVal);
+		
+		long LongVal=10000;
+		System.out.println("Long :"+LongVal);
+		
+		float FloatVal=19.56f;
+		System.out.println("Float:" +FloatVal);
+		
+		double DoubleVal=169.456;
+		System.out.println("double :"+DoubleVal);
+		
+		char CharVal='a';
+		System.out.println("Char :"+CharVal);
+		
+		char CharVall='\u0064';
+		System.out.println("Char :"+CharVall);
+		
+	}
+}
+		
+		
+Output:
+Boolean:true
+Byte:120
+Integer:14569
+Short:14569
+Float:19.56
+double:169.456
+Char:a
+Char:d
+
+
+Conclusion:Learned about diffrent data types
