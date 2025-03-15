@@ -1,6 +1,6 @@
 Date:12.03.2025
 Practical No: 02
-Problem Specification: Add the numbers in print it
+Problem Specification: How to use diffrent datatypes 
 Implementation:
 class My2ndprogram{
 	public static void main (String[] args){
@@ -33,6 +33,7 @@ true
 My faculty is FAS
 My results1 is 8
 My results2 is 15.5
+Conculsion: we learned diffrent datatype
 
 
 
