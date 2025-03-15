@@ -1,0 +1,18 @@
+Date:12.03.2025
+Practical No:01
+Problem Specification: Print the Statement
+Implementation:
+class Myfirstjavaprogram{
+	public static void main (String[] args)
+	{
+		System.out.println("My first program in java");
+		System.out.println("Hello Java Developers!!!");
+	}
+    }
+		
+Output: 
+My first program in java
+Hello Java Developers!!!
+
+Conclusion:
+Learned about the basic structure of a java program is used to display an output
