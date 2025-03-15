@@ -1,6 +1,24 @@
 Date:12.03.2025
 Practical No:07
-Problem Specification:
+Problem Specification:get 2 values from the use and perform +,-,*,/,%
 Implimentation:
-Output:
-Conclusion:
+class TwoVariables{
+	public static void main(String args[]){
+		int num1=9;
+		int num2=8;
+		
+		System.out.println("Addition is:"+(num1+num2));
+		System.out.println("Subtraction is:"+(num1-num2));
+		System.out.println("Multiplication is:"+(num1*num2));
+		System.out.println("Divition is:"+(num1/num2));
+		System.out.println("Modulation is:"+(num1%num2));
+	}
+}
+Output:     
+    Addition is:17
+    Subtraction is:1
+    Multiplication is:72
+    Divition is:1
+    Modulation is:1
+    
+Conclusion: we learned how to use operaters
